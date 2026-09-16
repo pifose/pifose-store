@@ -1,2 +1,2 @@
-PIFOSE STORE V4
-Clean hero edition. Replace the old index.html in pifose-store with this index.html and commit. All storefront images/styles/scripts are embedded.
+PIFOSE STORE V5 STRONG
+Replace the existing index.html in pifose-store with this index.html, then Commit changes. All required images, CSS and JS are embedded.
