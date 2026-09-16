@@ -1,0 +1,1 @@
+let count=0;const bag=document.getElementById('bagCount'),toast=document.getElementById('toast');document.querySelectorAll('button[data-product]').forEach(btn=>btn.addEventListener('click',()=>{count++;bag.textContent=count;toast.textContent=btn.dataset.product.toUpperCase()+' ADDED TO BAG';toast.classList.add('show');setTimeout(()=>toast.classList.remove('show'),1500)}));
